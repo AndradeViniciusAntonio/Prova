@@ -12,4 +12,4 @@ Envia o código para o repositório online.
 São ramificações do projeto.
 # 8 - O que é pullrequest?
 Quando você solicita que o dono do repositório para que esse
-atualize o código dele com o seu.
+atualize o código dele com o seu..
