@@ -13,3 +13,7 @@ São ramificações do projeto.
 # 8 - O que é pullrequest?
 Quando você solicita que o dono do repositório para que esse
 atualize o código dele com o seu..
+# 9 - O que é fork?
+É como um clone, porem no github local.
+# 10 - O que é um VCS?
+NÃO lembro..
