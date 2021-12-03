@@ -4,3 +4,7 @@
 É um grupo de alterações no código.
 # 3 - O que é um repositorio?
 É a pasta do projeto.
+# 4 - O que é uma merge?
+É a união de 2 branch.
+# 5 - O que é pull?
+Envia o código para o repositório online.
